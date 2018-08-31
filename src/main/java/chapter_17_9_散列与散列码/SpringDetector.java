@@ -2,6 +2,11 @@ package chapter_17_9_散列与散列码;
 
 import java.lang.reflect.*;
 import java.util.*;
+/**
+ * <br>类名：SpringDetector<br>
+ * 作者： mht<br>
+ * 日期： 2018年4月22日-下午4:55:08<br>
+ */
 public class SpringDetector extends Object{
 
     // Users a Groundhog or class derived from Groundhog;
